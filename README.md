@@ -2,7 +2,6 @@
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 ## Flix Part 2
 
@@ -10,19 +9,19 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### REQUIRED (10pts)
 - [x] (5pts) User can tap a cell to see more details about a particular movie.
-- [ ] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
+- [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+Here's a walkthrough of implemented user stories:
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src='part2_demo.gif' title='Part 2 Video Walkthrough' width='' alt='Part 2 Video Walkthrough' /><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+This assignment was fairly straightforward and I didn't really encounter any challenges while making it. it was great to see how to create segue's between different view contollers and how they could branch out. I'll definately be using this in future projects.
 
 ---
 
@@ -42,7 +41,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthrough GIFs
 Here's a walkthrough of implemented user stories:
 
-<img src='demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /><br>
+<img src='part1_demo.gif' title='Part 1 Video Walkthrough' width='' alt='Part 1 Video Walkthrough' /><br>
 
 ### Notes
 The only challenege I encounted while making this app was installing/setting up CocoaPods, which I eventually figured out how to do using Homebrew. Other than that, this app was easy enough to make.
