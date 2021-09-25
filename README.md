@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 Here's a walkthrough of implemented user stories:
 
-<img src='part2_demo.gif' title='Part 2 Video Walkthrough' width=250'' alt='Part 2 Video Walkthrough' /><br>
+<img src='part2_demo.gif' title='Part 2 Video Walkthrough' width='' alt='Part 2 Video Walkthrough' /><br>
 
 ### Notes
 This assignment was fairly straightforward and I didn't really encounter any challenges while making it. it was great to see how to create segue's between different view contollers and how they could branch out. I'll definately be using this in future projects.
